@@ -1,0 +1,293 @@
+.coins_data{
+  max-width: 1200px;
+  margin: auto; 
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-top: 220px;
+ 
+
+}
+
+.coins_data td{
+background-color: rgba(0,0,0,0.3);
+width: 250px;
+border-bottom: 1px solid rgba(128, 128, 128, 0.446);
+
+}
+.row:hover{
+background-color: rgba(0, 0, 0, 0.213);
+
+
+}
+
+.logo{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo img{
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+
+.array_titles{
+  font-size: 1.1em;
+  margin-bottom: 12px;
+ }
+.array_titles td{
+  background-color: rgba(0,0,0,0.3);
+  
+}
+.nav{
+  position: fixed;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  top: 0;
+  width: 100%;
+  background-color: rgba(0,0,0,0.2);
+  transition: 0.7s;
+  padding: 20px 20px;
+  
+}
+
+
+/* ------------- Clases Toogle js--------- */
+
+
+.abajo{
+  background-color: rgba(0,0,0,0.9);
+  padding: 10px 20px;
+  box-shadow: 0 0 0.7142857142857143rem #103a49;
+}
+.ocultar{
+  transition: 0.7s;
+  opacity: 0;
+  font-size: 1.7em;
+}
+
+.crypto{
+  transition: 0.7s;
+  opacity: 1;
+}
+
+ .subir{
+  margin-top: -150px;
+  transition: 0.7s;
+  
+}
+
+/* ------------------------------------------- */
+
+
+.logo, .abajo a{
+  color: #fff;
+}
+
+.logo img{
+  width: 40px;
+  height: 60px;
+  object-fit: cover;
+  margin-right: 15px;
+}
+
+
+
+section{
+
+  display: flex;
+  width: 750px;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.7s;
+ 
+
+}
+
+.sub_header{
+  position: fixed;
+  top: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 750px;
+  padding: 0px 10px 0px 10px;
+ }
+
+
+
+
+.fav-box{
+  font-size: 1.1em;
+  color: #1956a5;
+  background-color: aqua;
+}
+
+
+.fav {
+  background-color: #1956a54a;
+  float: right;
+  cursor: pointer;
+  color: #1956a5;
+  transition: all .8s;
+  padding: 7px;
+  border-radius: 50%;
+}
+
+.fav:hover {
+  transition: all .7s;
+  transform: scale(1.3);
+  background-color: #0f848c73;
+}
+
+
+
+.data{
+  margin: 1px;
+}
+
+.dropdown-item{
+  cursor: pointer;
+}
+
+
+#dropdownMenuLink{
+  box-shadow: 0 0 0.7142857142857143rem #257491;
+  color: white;
+
+}
+
+.dropdown-item{
+  background-color: rgba(0,0,0,0.2);
+}
+.dropdown-item:hover{
+  background-color: #1956a5;
+}
+
+.bg-darkss{
+  background-color: rgba(0,0,0,0.2);
+}
+.dropdown-menu{
+  background-color: rgba(0,0,0,0.3);
+}
+.bg-outline-transparent{
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.blanco{
+  color: white;
+}
+
+
+
+.videoTag{
+  position: fixed;
+  top: 0;
+  
+  
+  
+  z-index: -1;
+}
+
+td{
+  padding:20px
+   
+}
+.input input{
+  transition: all .7s;
+  background-color: rgba(0,0,0,0.5);
+  /* box-shadow: 0 0 0.7142857142857143rem #1956a5; */
+  box-shadow: 0 0 0.7142857142857143rem #257491;
+  
+ 
+  
+  
+}
+ .input input:Focus {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+
+article{
+  width: 450px;
+  transition: all .7s;
+}
+.reducir{
+transition: all .7s;
+ width: 200px; 
+
+}
+
+
+.x{
+  color: #1956a5;
+}
+
+
+
+
+@media(max-width:768px){
+  article{
+    width: 190px;
+    transition: all .7s;
+    
+  }
+  .reducir{
+   width: 118px;
+  }
+  
+  
+
+.symbol{
+  font-size: .6em;
+}
+.array_titles td{
+  
+ 
+  width: 120px;  
+  font-size: .9em;
+}
+
+.array_data td{
+  width: 120px;
+  font-size: .9em;
+}
+
+.coins_data td{
+  background-color: rgba(0,0,0,0.2);
+ 
+  }
+  .coins_data{
+  margin-top: 180px;
+  }
+  .sub_header{
+    width: 360px;
+    margin-top: -30px;
+   
+  }
+  .sub_header a{
+   
+    font-size: .9em;
+  }
+  .subir{
+    margin-top: -120px;
+    
+  }
+
+  .ocultar{
+
+    font-size: 1em;
+  }
+
+.logo img{
+  width: 26px;
+  height: 40px;
+  object-fit: cover;
+  margin-right: 15px;
+}
+
+}
+  
