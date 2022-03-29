@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cryptox/static/css/main.46d0b00f.css",
+    "main.js": "/cryptox/static/js/main.77f92dd5.js",
+    "static/js/787.ad7eea18.chunk.js": "/cryptox/static/js/787.ad7eea18.chunk.js",
+    "static/media/mundo2.mp4": "/cryptox/static/media/mundo2.3a91faa10a062db9e79d.mp4",
+    "static/media/alien.gif": "/cryptox/static/media/alien.fc42bc2c4284f9c516cc.gif",
+    "index.html": "/cryptox/index.html",
+    "main.46d0b00f.css.map": "/cryptox/static/css/main.46d0b00f.css.map",
+    "main.77f92dd5.js.map": "/cryptox/static/js/main.77f92dd5.js.map",
+    "787.ad7eea18.chunk.js.map": "/cryptox/static/js/787.ad7eea18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d0b00f.css",
+    "static/js/main.77f92dd5.js"
+  ]
+}
