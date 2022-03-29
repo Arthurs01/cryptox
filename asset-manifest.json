@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cryptox/static/css/main.9bebaf8b.css",
-    "main.js": "/cryptox/static/js/main.8e6094d9.js",
+    "main.css": "/cryptox/static/css/main.afd7a7f9.css",
+    "main.js": "/cryptox/static/js/main.5a7dee9b.js",
     "static/js/787.ad7eea18.chunk.js": "/cryptox/static/js/787.ad7eea18.chunk.js",
     "static/media/mundo2.mp4": "/cryptox/static/media/mundo2.3a91faa10a062db9e79d.mp4",
     "static/media/allien3.png": "/cryptox/static/media/allien3.14d83e86b7b63859a355.png",
     "index.html": "/cryptox/index.html",
-    "main.9bebaf8b.css.map": "/cryptox/static/css/main.9bebaf8b.css.map",
-    "main.8e6094d9.js.map": "/cryptox/static/js/main.8e6094d9.js.map",
+    "main.afd7a7f9.css.map": "/cryptox/static/css/main.afd7a7f9.css.map",
+    "main.5a7dee9b.js.map": "/cryptox/static/js/main.5a7dee9b.js.map",
     "787.ad7eea18.chunk.js.map": "/cryptox/static/js/787.ad7eea18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bebaf8b.css",
-    "static/js/main.8e6094d9.js"
+    "static/css/main.afd7a7f9.css",
+    "static/js/main.5a7dee9b.js"
   ]
 }
